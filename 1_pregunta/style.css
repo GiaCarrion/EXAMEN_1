@@ -1,0 +1,28 @@
+.card {
+    display: flex;
+    justify-content: space-around;
+    margin: 200px;
+}
+
+
+.principal {
+    border: 1px solid rgb(214, 214, 214);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 200px;
+}
+
+.titulo {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.contenido {
+    font-style: italic;
+}
+
+.final {
+    background-color: rgb(214, 214, 214);
+}
